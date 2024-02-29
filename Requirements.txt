@@ -1,0 +1,7 @@
+Pydub
+tqdm
+flash-attn
+Librosa
+jiwer
+gradio
+datasets
