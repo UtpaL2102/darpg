@@ -5,3 +5,5 @@ Librosa
 jiwer
 gradio
 datasets
+transformers
+accelerate
