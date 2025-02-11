@@ -1,9 +1,11 @@
-Pydub
+pydub
 tqdm
 flash-attn
-Librosa
+librosa
 jiwer
 gradio
-datasets
+datasets[audio]
 transformers
 accelerate
+optimum
+evaluate
