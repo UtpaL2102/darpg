@@ -63,7 +63,7 @@ audio_dataset/
 ## Deployment
 We have deployed this model on **Hugging Face Spaces** for easy access and usage. You can try it out here:
 
-👉 **[WHISPER-SPEECH-TO-TEXT-MODEL-FOR-DARPG](#)**
+👉 **[WHISPER-SPEECH-TO-TEXT-MODEL-FOR-DARPG](https://huggingface.co/spaces/sanket003/WHISPER-SPEECH-TO-TEXT-MODEL-FOR-DARPG)**
 
 ---
 ## Using the Model Locally
@@ -85,11 +85,10 @@ python run_model.py
 
 ---
 ## Contributors
-- **[Your Name]** - *Lead Developer*
-- **[Your Team Member]** - *Data Processing*
-- **[Your Team Member]** - *Deployment & UI*
+- **[Sanket Poojary]** - *Lead Developer*
+- **[Priyadarshi Uttpal]** - *Lead Developer*
 
-For inquiries, contact us at **[your_email@example.com](mailto:your_email@example.com)**
+For inquiries, contact us at **[priyadarshiutpal06@gmail.com](mailto:priyadarshiutpal06@gmail.com)**
 
 ---
 ### License
